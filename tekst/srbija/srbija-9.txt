@@ -1,0 +1,9 @@
+[quote]Turmen: Molim te nemoj "se slagati" sa ovakvim evidentim bot - služba nalozima, ja ovde pokušavam da te odbranim od ovih koji misle da si Draganče, a ti me demantuješ [/quote]
+
+Bez ulaženja u semantiku postoji velika podudarnost u sintaksi Javinih i Dragančetovih objava. 
+Verovatnoća je preko 79% da je Javine i Dragančetove postove pisala ista osoba. 
+Program za analizu sam pisao ja i ne želim još uvek da ga javno objavim. 
+Međutim, ako je neko zainteresovan za izvorni kod programa koji automatski objavljuje izbrisane poruke na EMZ, može me kontaktirati tako što će javno objaviti kriptovanu poruku za mene.
+
+P.S.
+Program ne šaljem ćacima.

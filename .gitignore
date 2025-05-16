@@ -1,0 +1,6 @@
+nalozi.json
+objave.json
+backup-cfg/*
+!backup-cfg/.gitkeep
+es
+es-win.exe

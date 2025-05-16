@@ -1,0 +1,12 @@
+[quote]test1234: Može da se pročita i recimo Stradija, Vodja, Danga pa recimo Dr Arčibald. Ćopavi za malo da nas zahebe i opismeni, baš za malo. Ali opet smo mi Srbi tu pokazali maštovitost. [/quote]
+
+Odlični su predlozi. Pod "Ćopavim" misliš na Vuka Karadžića?
+
+Ako neko želi da mi piše privatnu poruku, može to da uradi putem foruma tako što će poruku kriptovati (rsa) mojim javnim ključem i tako kriptovanu enkodovati (base64):
+
+ -----BEGIN PUBLIC KEY-----
+MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCtiuFdTHvdD+qS0N9NPKNfr3wZ
+rGTw1TiDasCll6qslQGoPaaO4i7L28v4YB53HHHlbHRMP1PQ50s+tZXtBbpdZMI0
+u6el0ej6SFNetXvu+3AJ/5jv1Wby9mPSUCOldPQgyn5kZ/wiKUuPTYm3l9mR1eNt
+1DDgPb8XT1jKPgEvBwIDAQAB
+-----END PUBLIC KEY-----
