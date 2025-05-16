@@ -16,13 +16,15 @@ Program na svakih 10 minuta proverava da li se Vaše objave nalaze na sajtu. Uko
 - Izmenite fajl nalozi.json tako što ćete uneti korisničko ime, lozinku i postaviti atribut aktivan na true. Ukoliko imate prijatelje sa kojim delite program, u fajl možete uneti i njihove parametre. Ako administrator greškom banuje neki od naloga, program to detektuje, deaktivira nalog postavljanjem atributa aktivan na false, a objave tog korisnika prebacuje nekom od aktivnih.
  - Pokrenite tekst editor, napišite tekst objave i sačuvajte je u bilo kom potfolderu koji se nalazi ispod direktorijuma programa. Pogledajte direktorijum *tekst* kao primer.
 - Dodajte opis objave u fajl objave.json. **Fajl sadrži listu objava, koje su date kao primer unosa. Ukoliko ne želite da objavite primere izbrišite sadržaj fajla i dodajte svoje unose.** Za svaku objavu mora da postoji odgovarajući unos. Unos može da izgleda ovako:
-`....{
-......"naslov": "Moja prva poruka",
-......"postId": "?",
-......"temaId": "510739",
-......"autor": "Pera Peric",
-......"fajl": "tekst/srbija/srbija-prvi-test.txt"
-....}`
+````````
+  {
+      "naslov": "Moja prva poruka",
+      "postId": "?",
+      "temaId": "510739",
+      "autor": "Pera Peric",
+      "fajl": "tekst/srbija/srbija-prvi-test.txt"
+  }
+````````
     - **naslov** pišete Vi sami, vodite računa da forum zahteva da naslov ima odgovarajuću dužinu (čini mi se da mora biti duži od 15 karaktera)
     - **postId** je identifikator Vaše objave. Ukoliko pišete novu objavu u polje možete da upišete bilo šta, na primer znak pitanja. Ukoliko se radi o već postojećoj objavi, onda je potrebno da pročitate postId iz adrese objave. Na primer, ako je adresa objave https://www.elitemadzone.org/t510739-36#4101985, postId je 4101985, a temaId 510739
     - **temaId** podatak mora biti tačan, kako bi objava završila na pravom mestu. Čita se iz adrese, na iznad prikazani način;
