@@ -1,0 +1,12 @@
+[
+    {
+        "korisnik": "Pera Peric",
+        "lozinka": "123456",
+        "aktivan": true
+    },
+    {
+        "korisnik": "Zika Zikic",
+        "lozinka": "654321",
+        "aktivan": false
+    }
+]
