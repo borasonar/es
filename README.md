@@ -11,7 +11,7 @@ Srećom, tim programera koji čine korisnici foruma sa nadimcima Everovic, Zurg,
 
 ### Kako aplikacija radi?
 
-Program na svakih 10 minuta proverava da li se Vaše objave nalaze na sajtu. Ukoliko se ne nalaze program ih objavljuje. Da bi funkcionisao potrebno je na napravite nekoliko jednostavnih podešavanja.
+Program na svakih 10 minuta proverava da li se Vaše objave nalaze na sajtu. Ukoliko se ne nalaze program ih objavljuje. Da bi funkcionisao potrebno je da napravite nekoliko jednostavnih podešavanja.
 
 - Izmenite fajl nalozi.json tako što ćete uneti korisničko ime, lozinku i postaviti atribut aktivan na true. Ukoliko imate prijatelje sa kojim delite program, u fajl možete uneti i njihove parametre. Ako administrator greškom banuje neki od naloga, program to detektuje, deaktivira nalog postavljanjem atributa aktivan na false, a objave tog korisnika prebacuje nekom od aktivnih.
  - Pokrenite tekst editor, napišite tekst objave i sačuvajte je u bilo kom potfolderu koji se nalazi ispod direktorijuma programa. Pogledajte direktorijum *tekst* kao primer.
